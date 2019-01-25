@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 90.826 s <<< FAILURE! - in TestSuite
+verifyHomePageTitle(com.ebay.homepage.TestsOnHomepage)  Time elapsed: 0.285 s  <<< FAILURE!
+java.lang.AssertionError: expected [abcefe] but found [Electronics, Cars, Fashion, Collectibles, Coupons and More | eBay]
+	at com.ebay.homepage.TestsOnHomepage.verifyHomePageTitle(TestsOnHomepage.java:32)
+

@@ -1,0 +1,5 @@
+12:50:43.650 [main] INFO  com.ebay.homepage.TestsOnLoginPage - URL submitted
+12:50:46.831 [main] INFO  com.ebay.homepage.TestsOnLoginPage - Clicked on Sign in link
+12:50:47.033 [main] INFO  com.ebay.homepage.TestsOnLoginPage - Username entered
+12:50:47.241 [main] INFO  com.ebay.homepage.TestsOnLoginPage - Password entered
+12:50:49.738 [main] INFO  com.ebay.homepage.TestsOnLoginPage - Clicked on Sign in button

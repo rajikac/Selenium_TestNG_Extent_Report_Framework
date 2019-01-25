@@ -1,0 +1,7 @@
+12:50:01.842 [main] INFO  com.ebay.homepage.TestsOnHomepage - URL submitted
+12:50:02.770 [main] INFO  com.ebay.homepage.TestsOnHomepage - Verified the navigation bar
+12:50:30.097 [main] INFO  com.ebay.homepage.TestsOnLoginPage - URL submitted
+12:50:34.207 [main] INFO  com.ebay.homepage.TestsOnLoginPage - Clicked on Sign in link
+12:50:34.636 [main] INFO  com.ebay.homepage.TestsOnLoginPage - Username entered
+12:50:34.967 [main] INFO  com.ebay.homepage.TestsOnLoginPage - Password entered
+12:50:38.910 [main] INFO  com.ebay.homepage.TestsOnLoginPage - Clicked on Sign in button
